@@ -2,7 +2,6 @@
 def appName= 'testing'
 def major_version = 1.0 
 
-
 node{ 
 
 stage('cloning repo'){
