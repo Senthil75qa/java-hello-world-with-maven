@@ -25,5 +25,4 @@ sh 'mvn clean install'
     echo "The current application name is ${appName}.${appVersion}.jar"
     sh 'ls -la target/'
   }
-  
-}
+  }
